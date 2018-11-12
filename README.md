@@ -47,7 +47,7 @@ react-native link react-native-google-places
 
 ##### Manual Linking With Your Project (iOS)
 - In XCode, in the project navigator, right click `Libraries ➜ Add Files to [your project's name]`.
-- Go to `node_modules` ➜ `react-native-google-places` and add `RNGooglePlaces.xcodeproj`.
+- Go to `node_modules` ➜ `react-native-google-places` ➜ `ios` and add `RNGooglePlaces.xcodeproj`.
 - In XCode, in the project navigator, select your project. Add `libRNGooglePlaces.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`.
 
 ##### Install CocoaPods Dependencies
